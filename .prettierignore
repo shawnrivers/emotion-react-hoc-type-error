@@ -1,0 +1,4 @@
+node_modules
+.next
+.vscodeo
+package-lock.json
